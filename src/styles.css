@@ -22,6 +22,11 @@ color: #42a5f5;
   margin-top: 30px;
 }
 
+.credits {
+  font-size: smaller;
+  padding: 10px;
+}
+
 .current-city {
   font-size: 45px;
 }
