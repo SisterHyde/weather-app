@@ -1,0 +1,65 @@
+/* Trying to center the search form but it's not working....
+.city-search {
+  display: block;
+  margin: 0 auto;
+} */
+
+/* Not using this right now because I'm using .text-primary from bootstrap...
+.blue-font {
+color: #42a5f5;
+} */
+
+/* .card {
+  background: #424242;
+} */
+
+.btn-primary {
+  margin: 0 10px;
+}
+
+.container {
+  width: 900px;
+  margin-top: 30px;
+}
+
+.current-city {
+  font-size: 45px;
+}
+
+/* css for current location icon */
+.fa-solid {
+  color: #007bff;
+}
+
+.future-temps {
+  margin: 30px;
+  border: none;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.super-script {
+  font-size: 20px;
+  vertical-align: top;
+  /* using .text-secondary from bootstrap instead... 
+  color: #616161; */
+}
+
+.today-temp {
+  font-size: 60px;
+}
+
+#celsius:hover {
+  cursor: pointer;
+}
+
+#date-time {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+#fahrenheit:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,4 @@
+Need to change the search input to capitals
+Need to add country to search result
+Need to figure out current location button - why does it automatically load instead of listening for the click?
+Need to change styling so big weather icon doesn't mush into the current temp
